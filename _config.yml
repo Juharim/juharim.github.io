@@ -1,11 +1,11 @@
 # Site settings
-title: Juharim
+title: Game Programmer Juharim
 email: juharim@naver.com
 url: https://juharim.github.io
-description: "소개글"
-keywords: "your keywords, separated by commas"
-skills: "Gmae Designer, Game Developer, Game Programmer"
-meta_author: LastName FirstName
+description: "Unity"
+keywords: "unity, developer, c#, game, designer""
+skills: "C#, Unity, Server Developer"
+meta_author: Juharim
 
 # Google webmaster tools
 google_verify:
@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Juharim
-  location: Location
+  location: skills
   social: Around the Web
   credits: Credits
 
@@ -52,11 +52,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: C#, Unity
+  - line: 
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Unity'
 
 # Build settings
 markdown: kramdown
