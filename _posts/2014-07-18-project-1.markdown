@@ -4,8 +4,9 @@ modal-id: 1
 date: 2019-11-14
 img: p01.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Unity UI SuperContact <a href="https://juharim.github.io/SuperContact2/">Github</a>
+project-date: November 2019
+github: https://juharim.github.io/SuperContact2
+skills: C#, unity
+category: Game, Contact
+description: Unity UI
 ---
